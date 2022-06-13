@@ -1,12 +1,12 @@
 {
 	"info": {
 		"_postman_id": "ba949d23-c6ae-44cf-be71-cdded0295e18",
-		"name": "12_june",
+		"name": "Hw_1",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "Hw_2",
+			"name": "02",
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -48,7 +48,7 @@
 			"response": []
 		},
 		{
-			"name": "Hw_1",
+			"name": "01",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -87,7 +87,7 @@
 			"response": []
 		},
 		{
-			"name": "Hw_3",
+			"name": "03",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -123,7 +123,7 @@
 			"response": []
 		},
 		{
-			"name": "Hw_4",
+			"name": "04",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -159,7 +159,7 @@
 			"response": []
 		},
 		{
-			"name": "Hw_5",
+			"name": "05",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -195,7 +195,7 @@
 			"response": []
 		},
 		{
-			"name": "Hw_6",
+			"name": "06",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -231,7 +231,7 @@
 			"response": []
 		},
 		{
-			"name": "Hw_7",
+			"name": "07",
 			"request": {
 				"method": "POST",
 				"header": [],
