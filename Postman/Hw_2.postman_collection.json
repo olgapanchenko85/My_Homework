@@ -274,9 +274,12 @@
 							"// Создать в окружении переменную salary\r",
 							"pm.environment.set(\"salary\", \"2000\");\r",
 							"// Написать цикл который выведет в консоль по порядку элементы списка из параметра salary\r",
-							"let salary_length = jsonData.length;\r",
-							"for (let i = 0; i < salary_length; i++)\r",
-							"console.log(jsonData.salary[i])"
+							"let salary = jsonData.salary;\r",
+							"\r",
+							"for (let i = 0; i < salary.length; i++) {\r",
+							"        console.log(\"Salary_\" + i + \": \" +salary[i])\r",
+							"}\r",
+							""
 						],
 						"type": "text/javascript"
 					}
